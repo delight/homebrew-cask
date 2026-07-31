@@ -1,4 +1,4 @@
-cask "trader-workstation-stable" do
+cask "trader-workstation@stable" do
   arch arm: "-arm", intel: "x-x64"
 
   version "10.45.1i"
